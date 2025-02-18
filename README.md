@@ -1,4 +1,4 @@
-# Raindrop Removal Evaluation
+# DewdropNet - Raindrop Removal Evaluation
 
 This repository contains the code for evaluating the performance of a raindrop removal model using various image quality metrics. The evaluation includes metrics such as PSNR, SSIM and NIQE on a set of raindrop-degraded images and their corresponding ground truth (clean) images.
 
